@@ -29,7 +29,6 @@ public void sampletest()
 	System.out.println("step 5");
 	
 
-	
 	   
 }
 
@@ -54,15 +53,11 @@ public void sampletestSoft()
 //in the above code if it fails or pass it will execute if u want to know the errors then u have to use the assertAll() method
 	sa.assertAll();
 	
-	
 
 	
 	   
 }
 
 }
-
-
-
 
 
