@@ -6,6 +6,10 @@ public class Saamplecode {
 
 
 		System.out.println("HELLO EVERYONE");
+		
+   
+		
+		System.out.println("GOOD MORNING");
 
 	}
 
