@@ -19,7 +19,7 @@ import objectRepository.DashBoardPage;
 public class CampaignTest  extends BaseClass
 {
 
-	@Test(groups = { "Smoke-Suite","Regression2"})
+	@Test(groups = { "Smoke-Suite","Regression"})
 	public void CreateCampaignTest() throws IOException, InterruptedException
 	
 	{
